@@ -1,7 +1,7 @@
 ## Touchless Gesture Control Computer Interface
 
 This is a program that facilitates touchless control of a user's computer. Scrolling is achieved by tilting the head, clicking is achieved by opening the mouth,
-and to move the cursor, the user moves their nose. This program was created for Hack Western 7. An installation guide is below.
+and to move the cursor, the user moves their nose. An installation guide is below.
 
 ## Installation guide
 
